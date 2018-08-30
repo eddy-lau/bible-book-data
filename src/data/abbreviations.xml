@@ -1,0 +1,994 @@
+<!-- Data from view-source:https://www.logos.com/bible-book-abbreviations -->
+
+<root>
+  <article class="section" id="Old-Testament" style="margin-bottom:20px;">
+    <div class="container">
+      <header class="section__header">
+        <h1 class="section__heading h3 h-bold-cap">Old Testament</h1>
+      </header>
+    </div>
+
+    <div class="section container">
+      <div class="row-of-lists">
+        <div class="row-of-lists__list" id="Genesis">
+          <h2 class="row-of-lists__heading">Genesis</h2>
+          <ul>
+            <li><strong>Most common:</strong> Gen.</li>
+            <li>Ge.</li>
+            <li>Gn.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Exodus">
+          <h2 class="row-of-lists__heading">Exodus</h2>
+          <ul>
+              <li><strong>Most common:</strong> Ex.</li>
+            <li>Exod.</li>
+            <li>Exo.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Leviticus">
+          <h2 class="row-of-lists__heading">Leviticus</h2>
+          <ul>
+            <li><strong>Most common:</strong> Lev.</li>
+            <li>Le.</li>
+            <li>Lv.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Numbers">
+          <h2 class="row-of-lists__heading">Numbers</h2>
+          <ul>
+            <li><strong>Most common:</strong> Num.</li>
+            <li>Nu.</li>
+            <li>Nm.</li>
+            <li>Nb.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Deuteronomy">
+          <h2 class="row-of-lists__heading">Deuteronomy</h2>
+          <ul>
+            <li><strong>Most common:</strong> Deut.</li>
+            <li>De.</li>
+            <li>Dt.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Joshua">
+          <h2 class="row-of-lists__heading">Joshua</h2>
+          <ul>
+            <li><strong>Most common:</strong> Josh.</li>
+            <li>Jos.</li>
+            <li>Jsh.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Judges">
+          <h2 class="row-of-lists__heading">Judges</h2>
+          <ul>
+            <li><strong>Most common:</strong> Judg.</li>
+            <li>Jdg.</li>
+            <li>Jg.</li>
+            <li>Jdgs.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ruth">
+          <h2 class="row-of-lists__heading">Ruth</h2>
+          <ul>
+              <li><strong>Most common:</strong> Ruth</li>
+            <li>Rth.</li>
+            <li>Ru.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1 Samuel">
+          <h2 class="row-of-lists__heading">1 Samuel</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Sam.</li>
+            <li>1 Sm.</li>
+            <li>1 Sa.</li>
+            <li>1 S.</li>
+            <li>I Sam.</li>
+            <li>I Sa.</li>
+            <li>1Sam.</li>
+            <li>1Sa.</li>
+            <li>1S.</li>
+            <li>1st Samuel</li>
+            <li>1st Sam.</li>
+            <li>First Samuel</li>
+            <li>First Sam.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2 Samuel">
+          <h2 class="row-of-lists__heading">2 Samuel</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Sam.</li>
+            <li>2 Sm.</li>
+            <li>2 Sa.</li>
+            <li>2 S.</li>
+            <li>II Sam.</li>
+            <li>II Sa.</li>
+            <li>2Sam.</li>
+            <li>2Sa.</li>
+            <li>2S.</li>
+            <li>2nd Samuel</li>
+            <li>2nd Sam.</li>
+            <li>Second Samuel</li>
+            <li>Second Sam.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1 Kings">
+          <h2 class="row-of-lists__heading">1 Kings</h2>
+          <ul>
+              <li><strong>Most common:</strong> 1 Kings</li>
+            <li>1 Kgs</li>
+            <li>1 Ki</li>
+            <li>1Kgs</li>
+            <li>1Kin</li>
+            <li>1Ki</li>
+            <li>1K</li>
+            <li>I Kgs</li>
+            <li>I Ki</li>
+            <li>1st Kings</li>
+            <li>1st Kgs</li>
+            <li>First Kings</li>
+            <li>First Kgs</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2 Kings">
+          <h2 class="row-of-lists__heading">2 Kings</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Kings</li>
+            <li>2 Kgs.</li>
+            <li>2 Ki.</li>
+            <li>2Kgs.</li>
+            <li>2Kin.</li>
+            <li>2Ki.</li>
+            <li>2K.</li>
+            <li>II Kgs.</li>
+            <li>II Ki.</li>
+            <li>2nd Kings</li>
+            <li>2nd Kgs.</li>
+            <li>Second Kings</li>
+            <li>Second Kgs.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1 Chronicles">
+          <h2 class="row-of-lists__heading">1 Chronicles</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Chron.</li>
+            <li>1 Chr.</li>
+            <li>1 Ch.</li>
+            <li>1Chron.</li>
+            <li>1Chr.</li>
+            <li>1Ch.</li>
+            <li>I Chron.</li>
+            <li>I Chr.</li>
+            <li>I Ch.</li>
+            <li>1st Chronicles</li>
+            <li>1st Chron.</li>
+            <li>First Chronicles</li>
+            <li>First Chron.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2 Chronicles">
+          <h2 class="row-of-lists__heading">2 Chronicles</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Chron.</li>
+            <li>2 Chr.</li>
+            <li>2 Ch.</li>
+            <li>2Chron.</li>
+            <li>2Chr.</li>
+            <li>2Ch.</li>
+            <li>II Chron.</li>
+            <li>II Chr.</li>
+            <li>II Ch.</li>
+            <li>2nd Chronicles</li>
+            <li>2nd Chron.</li>
+            <li>Second Chronicles</li>
+            <li>Second Chron.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ezra">
+          <h2 class="row-of-lists__heading">Ezra</h2>
+          <ul>
+              <li><strong>Most common:</strong> Ezra</li>
+            <li>Ezr.</li>
+            <li>Ez.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Nehemiah">
+          <h2 class="row-of-lists__heading">Nehemiah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Neh.</li>
+            <li>Ne.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Esther">
+          <h2 class="row-of-lists__heading">Esther</h2>
+          <ul>
+              <li><strong>Most common:</strong> Est.</li>
+            <li>Esth.</li>
+            <li>Es.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Job">
+          <h2 class="row-of-lists__heading">Job</h2>
+          <ul>
+              <li><strong>Most common:</strong> Job</li>
+            <li>Jb.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Psalms">
+          <h2 class="row-of-lists__heading">Psalms</h2>
+          <ul>
+              <li><strong>Most common:</strong> Ps.</li>
+            <li>Psalm</li>
+            <li>Pslm.</li>
+            <li>Psa.</li>
+            <li>Psm.</li>
+            <li>Pss.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Proverbs">
+          <h2 class="row-of-lists__heading">Proverbs</h2>
+          <ul>
+            <li><strong>Most common:</strong> Prov</li>
+            <li>Pro.</li>
+            <li>Prv.</li>
+            <li>Pr.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ecclesiastes">
+          <h2 class="row-of-lists__heading">Ecclesiastes</h2>
+          <ul>
+            <li><strong>Most common:</strong> Eccles.</li>
+            <li>Eccle.</li>
+            <li>Ecc.</li>
+            <li>Ec.</li>
+            <li>Qoh.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Song of Solomon">
+          <h2 class="row-of-lists__heading">Song of Solomon</h2>
+          <ul>
+              <li><strong>Most common:</strong> Song</li>
+            <li>Song of Songs</li>
+            <li>SOS.</li>
+            <li>So.</li>
+            <li>Canticle of Canticles</li>
+            <li>Canticles</li>
+            <li>Cant.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Isaiah">
+          <h2 class="row-of-lists__heading">Isaiah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Isa.</li>
+            <li>Is.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Jeremiah">
+          <h2 class="row-of-lists__heading">Jeremiah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Jer.</li>
+            <li>Je.</li>
+            <li>Jr.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Lamentations">
+          <h2 class="row-of-lists__heading">Lamentations</h2>
+          <ul>
+            <li><strong>Most common:</strong> Lam.</li>
+            <li>La.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ezekiel">
+          <h2 class="row-of-lists__heading">Ezekiel</h2>
+          <ul>
+            <li><strong>Most common:</strong> Ezek.</li>
+            <li>Eze.</li>
+            <li>Ezk.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Daniel">
+          <h2 class="row-of-lists__heading">Daniel</h2>
+          <ul>
+            <li><strong>Most common:</strong> Dan.</li>
+            <li>Da.</li>
+            <li>Dn.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Hosea">
+          <h2 class="row-of-lists__heading">Hosea</h2>
+          <ul>
+            <li><strong>Most common:</strong> Hos.</li>
+            <li>Ho.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Joel">
+          <h2 class="row-of-lists__heading">Joel</h2>
+          <ul>
+            <li><strong>Most common:</strong> Joel</li>
+            <li>Jl.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Amos">
+          <h2 class="row-of-lists__heading">Amos</h2>
+          <ul>
+              <li><strong>Most common:</strong> Amos</li>
+            <li>Am.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Obadiah">
+          <h2 class="row-of-lists__heading">Obadiah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Obad.</li>
+            <li>Ob.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Jonah">
+          <h2 class="row-of-lists__heading">Jonah</h2>
+          <ul>
+              <li><strong>Most common:</strong> Jonah</li>
+            <li>Jnh.</li>
+            <li>Jon.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Micah">
+          <h2 class="row-of-lists__heading">Micah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Mic.</li>
+            <li>Mc.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Nahum">
+          <h2 class="row-of-lists__heading">Nahum</h2>
+          <ul>
+            <li><strong>Most common:</strong> Nah.</li>
+            <li>Na.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Habakkuk">
+          <h2 class="row-of-lists__heading">Habakkuk</h2>
+          <ul>
+            <li><strong>Most common:</strong> Hab.</li>
+            <li>Hb.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Zephaniah">
+          <h2 class="row-of-lists__heading">Zephaniah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Zeph.</li>
+            <li>Zep.</li>
+            <li>Zp.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Haggai">
+          <h2 class="row-of-lists__heading">Haggai</h2>
+          <ul>
+            <li><strong>Most common:</strong> Hag.</li>
+            <li>Hg.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Zechariah">
+          <h2 class="row-of-lists__heading">Zechariah</h2>
+          <ul>
+            <li><strong>Most common:</strong> Zech.</li>
+            <li>Zec.</li>
+            <li>Zc.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Malachi">
+          <h2 class="row-of-lists__heading">Malachi</h2>
+          <ul>
+            <li><strong>Most common:</strong> Mal.</li>
+            <li>Ml.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <article class="section  section--bg bg-off-white" id="New-Testament" style="padding-bottom:20px;">
+    <div class="container">
+      <header class="section__header">
+        <h1 class="section__heading h3 h-bold-cap">New Testament</h1>
+      </header>
+
+    <div class="section container">
+      <div class="row-of-lists">
+        <div class="row-of-lists__list" id="Matthew">
+          <h2 class="row-of-lists__heading">Matthew</h2>
+          <ul>
+            <li><strong>Most common:</strong> Matt.</li>
+            <li>Mt.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Mark">
+          <h2 class="row-of-lists__heading">Mark</h2>
+          <ul>
+              <li><strong>Most common:</strong> Mark</li>
+            <li>Mrk</li>
+            <li>Mar</li>
+            <li>Mk</li>
+            <li>Mr</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Luke">
+          <h2 class="row-of-lists__heading">Luke</h2>
+          <ul>
+              <li><strong>Most common:</strong> Luke</li>
+            <li>Luk</li>
+            <li>Lk</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="John">
+          <h2 class="row-of-lists__heading">John</h2>
+          <ul>
+              <li><strong>Most common:</strong> John</li>
+            <li>Joh</li>
+            <li>Jhn</li>
+            <li>Jn</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Acts">
+          <h2 class="row-of-lists__heading">Acts</h2>
+          <ul>
+              <li><strong>Most common:</strong> Acts</li>
+            <li>Act</li>
+            <li>Ac</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Romans">
+          <h2 class="row-of-lists__heading">Romans</h2>
+          <ul>
+            <li><strong>Most common:</strong> Rom.</li>
+            <li>Ro.</li>
+            <li>Rm.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-Corinthians">
+          <h2 class="row-of-lists__heading">1 Corinthians</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Cor.</li>
+            <li>1 Co.</li>
+            <li>I Cor.</li>
+            <li>I Co.</li>
+            <li>1Cor.</li>
+            <li>1Co.</li>
+            <li>I Corinthians</li>
+            <li>1Corinthians</li>
+            <li>1st Corinthians</li>
+            <li>2nd Corinthians</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-Corinthians">
+          <h2 class="row-of-lists__heading">2 Corinthians</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Cor.</li>
+            <li>2 Co.</li>
+            <li>II Cor.</li>
+            <li>II Co.</li>
+            <li>2Cor.</li>
+            <li>2Co.</li>
+            <li>II Corinthians</li>
+            <li>2Corinthians</li>
+            <li>2nd Corinthians</li>
+            <li>Second Corinthians</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Galatians">
+          <h2 class="row-of-lists__heading">Galatians</h2>
+          <ul>
+            <li><strong>Most common:</strong> Gal.</li>
+            <li>Ga.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ephesians">
+          <h2 class="row-of-lists__heading">Ephesians</h2>
+          <ul>
+              <li><strong>Most common:</strong> Eph.</li>
+            <li>Ephes.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Philippians">
+          <h2 class="row-of-lists__heading">Philippians</h2>
+          <ul>
+            <li><strong>Most common:</strong> Phil.</li>
+            <li>Php.</li>
+            <li>Pp.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Colossians">
+          <h2 class="row-of-lists__heading">Colossians</h2>
+          <ul>
+            <li><strong>Most common:</strong> Col.</li>
+            <li>Co.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-Thessalonians">
+          <h2 class="row-of-lists__heading">1 Thessalonians</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Thess.</li>
+            <li>1 Thes.</li>
+            <li>1 Th.</li>
+            <li>I Thessalonians</li>
+            <li>I Thess.</li>
+            <li>I Thes.</li>
+            <li>I Th.</li>
+            <li>1Thessalonians</li>
+            <li>1Thess.</li>
+            <li>1Thes.</li>
+            <li>1Th.</li>
+            <li>1st Thessalonians</li>
+            <li>1st Thess.</li>
+            <li>First Thessalonians</li>
+            <li>First Thess.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-Thessalonians">
+          <h2 class="row-of-lists__heading">2 Thessalonians</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Thess.</li>
+            <li>2 Thes.</li>
+            <li>2 Th.</li>
+            <li>II Thessalonians</li>
+            <li>II Thess.</li>
+            <li>II Thes.</li>
+            <li>II Th.</li>
+            <li>2Thessalonians</li>
+            <li>2Thess.</li>
+            <li>2Thes.</li>
+            <li>2Th.</li>
+            <li>2nd Thessalonians</li>
+            <li>2nd Thess.</li>
+            <li>Second Thessalonians</li>
+            <li>Second Thess.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-Timothy">
+          <h2 class="row-of-lists__heading">1 Timothy</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Tim.</li>
+            <li>1 Ti.</li>
+            <li>I Timothy</li>
+            <li>I Tim.</li>
+            <li>I Ti.</li>
+            <li>1Timothy</li>
+            <li>1Tim.</li>
+            <li>1Ti.</li>
+            <li>1st Timothy</li>
+            <li>1st Tim.</li>
+            <li>First Timothy</li>
+            <li>First Tim.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-Timothy">
+          <h2 class="row-of-lists__heading">2 Timothy</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Tim.</li>
+            <li>2 Ti.</li>
+            <li>II Timothy</li>
+            <li>II Tim.</li>
+            <li>II Ti.</li>
+            <li>2Timothy</li>
+            <li>2Tim.</li>
+            <li>2Ti.</li>
+            <li>2nd Timothy</li>
+            <li>2nd Tim.</li>
+            <li>Second Timothy</li>
+            <li>Second Tim.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Titus">
+          <h2 class="row-of-lists__heading">Titus</h2>
+          <ul>
+              <li><strong>Most common:</strong> Titus</li>
+            <li>Tit</li>
+            <li>ti</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Philemon">
+          <h2 class="row-of-lists__heading">Philemon</h2>
+          <ul>
+            <li><strong>Most common:</strong> Philem.</li>
+            <li>Phm.</li>
+            <li>Pm.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Hebrews">
+          <h2 class="row-of-lists__heading">Hebrews</h2>
+          <ul>
+            <li><strong>Most common:</strong> Heb.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="James">
+          <h2 class="row-of-lists__heading">James</h2>
+          <ul>
+              <li><strong>Most common:</strong> James</li>
+            <li>Jas</li>
+            <li>Jm</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-Peter">
+          <h2 class="row-of-lists__heading">1 Peter</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Pet.</li>
+            <li>1 Pe.</li>
+            <li>1 Pt.</li>
+            <li>1 P.</li>
+            <li>I Pet.</li>
+            <li>I Pt.</li>
+            <li>I Pe.</li>
+            <li>1Peter</li>
+            <li>1Pet.</li>
+            <li>1Pe.</li>
+            <li>1Pt.</li>
+            <li>1P.</li>
+            <li>I Peter</li>
+            <li>1st Peter</li>
+            <li>First Peter</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-Peter">
+          <h2 class="row-of-lists__heading">2 Peter</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Pet.</li>
+            <li>2 Pe.</li>
+            <li>2 Pt.</li>
+            <li>2 P.</li>
+            <li>II Peter</li>
+            <li>II Pet.</li>
+            <li>II Pt.</li>
+            <li>II Pe.</li>
+            <li>2Peter</li>
+            <li>2Pet.</li>
+            <li>2Pe.</li>
+            <li>2Pt.</li>
+            <li>2P.</li>
+            <li>2nd Peter</li>
+            <li>Second Peter</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-John">
+          <h2 class="row-of-lists__heading">1 John</h2>
+          <ul>
+              <li><strong>Most common:</strong> 1 John</li>
+            <li>1 Jhn.</li>
+            <li>1 Jn.</li>
+            <li>1 J.</li>
+            <li>1John</li>
+            <li>1Jhn.</li>
+            <li>1Joh.</li>
+            <li>1Jn.</li>
+            <li>1Jo.</li>
+            <li>1J.</li>
+            <li>I John</li>
+            <li>I Jhn.</li>
+            <li>I Joh.</li>
+            <li>I Jn.</li>
+            <li>I Jo.</li>
+            <li>1st John</li>
+            <li>First John</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-John">
+          <h2 class="row-of-lists__heading">2 John</h2>
+          <ul>
+              <li><strong>Most common:</strong> 2 John</li>
+            <li>2 Jhn.</li>
+            <li>2 Jn.</li>
+            <li>2 J.</li>
+            <li>2John</li>
+            <li>2Jhn.</li>
+            <li>2Joh.</li>
+            <li>2Jn.</li>
+            <li>2Jo.</li>
+            <li>2J.</li>
+            <li>II John</li>
+            <li>II Jhn.</li>
+            <li>II Joh.</li>
+            <li>II Jn.</li>
+            <li>II Jo.</li>
+            <li>2nd John</li>
+            <li>Second John</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="3-John">
+          <h2 class="row-of-lists__heading">3 John</h2>
+          <ul>
+              <li><strong>Most common:</strong> 3 John</li>
+            <li>3 Jhn.</li>
+            <li>3 Jn.</li>
+            <li>3 J.</li>
+            <li>3John</li>
+            <li>3Jhn.</li>
+            <li>3Joh.</li>
+            <li>3Jn.</li>
+            <li>3Jo.</li>
+            <li>3J.</li>
+            <li>III John</li>
+            <li>III Jhn.</li>
+            <li>III Joh.</li>
+            <li>III Jn.</li>
+            <li>III Jo.</li>
+            <li>3rd John</li>
+            <li>Third John</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Jude">
+          <h2 class="row-of-lists__heading">Jude</h2>
+          <ul>
+              <li><strong>Most common:</strong> Jude</li>
+            <li>Jud.</li>
+            <li>Jd.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Revelation">
+          <h2 class="row-of-lists__heading">Revelation</h2>
+          <ul>
+            <li><strong>Most common:</strong>Rev</li>
+            <li>Re</li>
+            <li>The Revelation</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+    </div>
+  </article>
+
+
+
+  <article class="section" id="Apocrypha" style="margin-bottom:0px;">
+    <div class="container">
+      <header class="section__header">
+        <h1 class="section__heading h3 h-bold-cap">Apocrypha</h1>
+      </header>
+    </div>
+    <div class="section container" style="margin-bottom:40px;">
+      <div class="row-of-lists">
+        <div class="row-of-lists__list" id="Tobit">
+          <h2 class="row-of-lists__heading">Tobit</h2>
+          <ul>
+            <li><strong>Most common:</strong> Tob.</li>
+            <li>Tb.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Judith">
+          <h2 class="row-of-lists__heading">Judith</h2>
+          <ul>
+              <li><strong>Most common:</strong> Jth.</li>
+            <li>Jdth.</li>
+            <li>Jdt.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Additions-to-Esther">
+          <h2 class="row-of-lists__heading">Additions to Esther</h2>
+          <ul>
+            <li><strong>Most common:</strong> Add Esth.</li>
+            <li>Add Es.</li>
+            <li>Rest of Esther</li>
+            <li>The Rest of Esther</li>
+            <li>AEs.</li>
+            <li>AddEsth.</li>
+        </ul>
+        </div>
+        <div class="row-of-lists__list" id="Wisdom-of-Solomon">
+          <h2 class="row-of-lists__heading">Wisdom of Solomon</h2>
+          <ul>
+            <li><strong>Most common:</strong> Wisd. of Sol.</li>
+            <li>Wisdom</li>
+            <li>Wis.</li>
+            <li>Ws.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Sirach">
+          <h2 class="row-of-lists__heading">Sirach</h2>
+          <ul>
+            <li><strong>Most common:</strong> Sir.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ecclesiasticus">
+          <h2 class="row-of-lists__heading">Ecclesiasticus</h2>
+          <ul>
+            <li><strong>Most common:</strong> Ecclus.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Baruch">
+          <h2 class="row-of-lists__heading">Baruch</h2>
+          <ul>
+            <li><strong>Most common:</strong> Bar.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Letter-of-Jeremiah">
+          <h2 class="row-of-lists__heading">Letter of Jeremiah</h2>
+          <ul>
+              <li><strong>Most common:</strong> Ep. Jer.</li>
+            <li>Let. Jer.</li>
+            <li>Ltr. Jer.</li>
+            <li>LJe.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Song-of-Three-Youths">
+          <h2 class="row-of-lists__heading">Song of Three Youths</h2>
+          <ul>
+              <li><strong>Most common:</strong> Sg. of 3 Childr.</li>
+            <li>Song of Three</li>
+            <li>Song of Thr.</li>
+            <li>Song Thr.</li>
+            <li>The Song of Three Youths</li>
+            <li>The Song of the Three Holy Children</li>
+            <li>Song of the Three Holy Children</li>
+            <li>Song of the Three Holy Children</li>
+            <li>Song of Three Children</li>
+            <li>The Song of Three Jews</li>
+            <li>Song of Three Jews</li>
+            <li>Prayer of Azariah</li>
+            <li>Azariah</li>
+            <li>Pr. Az.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Susanna">
+          <h2 class="row-of-lists__heading">Susanna</h2>
+          <ul>
+            <li><strong>Most common:</strong> Sus.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Bel-and-the-Dragon">
+          <h2 class="row-of-lists__heading">Bel and the Dragon</h2>
+          <ul>
+              <li><strong>Most common:</strong> Bel and Dr.</li>
+            <li>Bel.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-Maccaabees">
+          <h2 class="row-of-lists__heading">1 Maccabees</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Macc.</li>
+            <li>1 Mac.</li>
+            <li>1Maccabees</li>
+            <li>1Macc.</li>
+            <li>1Mac.</li>
+            <li>1Ma.</li>
+            <li>1M.</li>
+            <li>I Maccabees</li>
+            <li>I Macc.</li>
+            <li>I Mac.</li>
+            <li>I Ma.</li>
+            <li>1st Maccabees</li>
+            <li>First Maccabees</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-Maccaabees">
+          <h2 class="row-of-lists__heading">2 Maccabees</h2>
+          <ul>
+            <li><strong>Most common:</strong> 2 Macc.</li>
+            <li>2 Mac.</li>
+            <li>2Maccabees</li>
+            <li>2Macc.</li>
+            <li>2Mac.</li>
+            <li>2Ma.</li>
+            <li>2M.</li>
+            <li>II Maccabees</li>
+            <li>II Macc.</li>
+            <li>II Mac.</li>
+            <li>II Ma.</li>
+            <li>2nd Maccabees</li>
+            <li>Second Maccabees</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="3-Maccaabees">
+          <h2 class="row-of-lists__heading">3 Maccabees</h2>
+          <ul>
+            <li><strong>Most common:</strong> 3 Macc.</li>
+            <li>3 Mac.</li>
+            <li>3Maccabees</li>
+            <li>3Macc.</li>
+            <li>3Mac.</li>
+            <li>3Ma.</li>
+            <li>3M.</li>
+            <li>III Maccabees</li>
+            <li>III Macc.</li>
+            <li>III Mac.</li>
+            <li>III Ma.</li>
+            <li>3rd Maccabees</li>
+            <li>Third Maccabees</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="4-Maccaabees">
+          <h2 class="row-of-lists__heading">4 Maccabees</h2>
+          <ul>
+            <li><strong>Most common:</strong> 4 Macc.</li>
+            <li>4 Mac.</li>
+            <li>4Maccabees</li>
+            <li>4Macc.</li>
+            <li>4Mac.</li>
+            <li>4Ma.</li>
+            <li>4M.</li>
+            <li>IV Maccabees</li>
+            <li>IV Macc.</li>
+            <li>IV Mac.</li>
+            <li>IV Ma.</li>
+            <li>4th Maccabees</li>
+            <li>Fourth Maccabees</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="1-Esdras">
+          <h2 class="row-of-lists__heading">1 Esdras</h2>
+          <ul>
+            <li><strong>Most common:</strong> 1 Esd.</li>
+            <li>1 Esdr.</li>
+            <li>1Esdras.</li>
+            <li>1Esdr.</li>
+            <li>1Esd.</li>
+            <li>1Es.</li>
+            <li>I Esdras</li>
+            <li>I Esdr.</li>
+            <li>I Esd.</li>
+            <li>I Es.</li>
+            <li>1st Esdras</li>
+            <li>First Esdras</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="2-Esdras">
+          <h2 class="row-of-lists__heading">2 Esdras</h2>
+          <ul>
+              <li><strong>Most common:</strong> 2 Esd.</li>
+            <li>2 Esdr.</li>
+            <li>2Esdras</li>
+            <li>2Esdr.</li>
+            <li>2Esd.</li>
+            <li>2Es.</li>
+            <li>II Esdras</li>
+            <li>II Esdr.</li>
+            <li>II Esd.</li>
+            <li>II Es.</li>
+            <li>2nd Esdras</li>
+            <li>Second Esdras</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Prayer-of-Manasseh">
+          <h2 class="row-of-lists__heading">Prayer of Manasseh</h2>
+          <ul>
+            <li><strong>Most common:</strong> Pr. of Man.</li>
+            <li>Pr. of Man.</li>
+            <li>PMa.</li>
+            <li>Prayer of Manasses</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Additional-Psalm">
+          <h2 class="row-of-lists__heading">Additional Psalm</h2>
+          <ul>
+            <li>Add. Psalm</li>
+            <li>Add. Ps.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Ode">
+          <h2 class="row-of-lists__heading">Ode</h2>
+          <ul>
+            <li><strong>Most common:</strong>Ode</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Psalms-of-Solomon">
+          <h2 class="row-of-lists__heading">Psalms of Solomon</h2>
+          <ul>
+            <li>Ps. Solomon</li>
+            <li>Ps. Sol.</li>
+            <li>Psalms Solomon</li>
+            <li>PsSol.</li>
+          </ul>
+        </div>
+        <div class="row-of-lists__list" id="Epistle-to-the-Laodiceans">
+          <h2 class="row-of-lists__heading">Epistle to the Laodiceans</h2>
+          <ul>
+              <li><strong>Most common:</strong> Ep. Lao.</li>
+            <li>Epistle to Laodiceans</li>
+            <li>Epistle Laodiceans</li>
+            <li>Epist. Laodiceans</li>
+            <li>Ep. Laod.</li>
+            <li>Laodiceans</li>
+            <li>Laod.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </article>
+
+</root>
