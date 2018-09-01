@@ -150,13 +150,20 @@ function getBookData(lang) {
 
 }
 
-module.exports = function(lang) {
+module.exports = function(lang, bookIds) {
 
   lang = lang || 'en';
 
   if (!cache[lang]) {
     cache[lang] = getBookData(lang);
   }
-  return cache[lang];
+
+  if (Array.isArray(bookIds)) {
+    return cache[lang].filter( bookData => {
+      return bookIds.indexOf(bookData.id) >= 0;
+    });
+  } else {
+    return cache[lang];
+  }
 
 };
