@@ -1,0 +1,170 @@
+{
+  "zh-Hant": {
+    "sections": [
+      {
+        "name": "舊約全書",
+        "numberOfBooks": 39,
+        "categories": [
+          {
+            "name": "摩西五經",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "歷史書",
+            "numberOfBooks": 12
+          },
+          {
+            "name": "詩歌智慧書",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "大先知書",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "小先知書",
+            "numberOfBooks": 12
+          }
+        ]
+      },
+      {
+        "name": "新約全書",
+        "numberOfBooks": 27,
+        "categories": [
+          {
+            "name": "福音書",
+            "numberOfBooks": 4
+          },
+          {
+            "name": "歷史書",
+            "numberOfBooks": 1
+          },
+          {
+            "name": "保羅書信",
+            "numberOfBooks": 13
+          },
+          {
+            "name": "普通書信",
+            "numberOfBooks": 8
+          },
+          {
+            "name": "啟示文學",
+            "numberOfBooks": 1
+          }
+        ]
+      }
+    ]
+  },
+  "zh-Hans": {
+    "sections": [
+      {
+        "name": "旧约全书",
+        "numberOfBooks": 39,
+        "categories": [
+          {
+            "name": "摩西五经",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "歷史書",
+            "numberOfBooks": 12
+          },
+          {
+            "name": "历史书",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "大先知书",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "小先知书",
+            "numberOfBooks": 12
+          }
+        ]
+      },
+      {
+        "name": "新约全书",
+        "numberOfBooks": 27,
+        "categories": [
+          {
+            "name": "福音书",
+            "numberOfBooks": 4
+          },
+          {
+            "name": "历史书",
+            "numberOfBooks": 1
+          },
+          {
+            "name": "保罗书信",
+            "numberOfBooks": 13
+          },
+          {
+            "name": "普通书信",
+            "numberOfBooks": 8
+          },
+          {
+            "name": "启示文学",
+            "numberOfBooks": 1
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "sections": [
+      {
+        "name": "Old Testament",
+        "numberOfBooks": 39,
+        "categories": [
+          {
+            "name": "Pentateuch",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "Historical books",
+            "numberOfBooks": 12
+          },
+          {
+            "name": "Poetic and Wisdom writings",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "Major Prophets",
+            "numberOfBooks": 5
+          },
+          {
+            "name": "Minor Prophets",
+            "numberOfBooks": 12
+          }
+        ]
+      },
+      {
+        "name": "New Testament",
+        "numberOfBooks": 27,
+        "categories": [
+          {
+            "name": "Canonical Gospels",
+            "numberOfBooks": 4
+          },
+          {
+            "name": "Apostolic History",
+            "numberOfBooks": 1
+          },
+          {
+            "name": "Pauline Epistles",
+            "numberOfBooks": 13
+          },
+          {
+            "name": "General Epistles",
+            "numberOfBooks": 8
+          },
+          {
+            "name": "Apocalypse",
+            "numberOfBooks": 1
+          }
+        ]
+      }
+    ]
+  }
+}
