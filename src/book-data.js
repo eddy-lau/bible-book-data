@@ -51,12 +51,16 @@ function getBookData(lang) {
   var result = [];
   var localizedName;
   var localizedAbbreviation;
+  var localizedAltNames;
 
   for (var i = 0; i<BOOK_DATA.length; i+=4) {
 
     if (localizedData[lang]) {
       localizedName = localizedData[lang].booknames[i/4];
       localizedAbbreviation = localizedData[lang].abbreviations[localizedName];
+      if (localizedData[lang].altNames) {
+        localizedAltNames = localizedData[lang].altNames[localizedName];
+      }
     }
 
     result.push({
@@ -64,6 +68,7 @@ function getBookData(lang) {
       id: BOOK_DATA[i+1],
       name: localizedName || BOOK_DATA[i+2],
       abbreviation: localizedAbbreviation || BOOK_DATA[i+1],
+      'alternate-names': localizedAltNames,
       description: BOOK_DATA[i+3],
       section: sectionOfBook(i/4, lang)
     });
