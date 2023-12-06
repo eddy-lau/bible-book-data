@@ -1,11 +1,19 @@
 {
   "name": "bible-book-data",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
-  "main": "src/book-data.js",
+  "main": "dist/book-data.js",
+  "files": ["dist/**/*"],
+  "types": "dist/book-data.d.ts",
   "scripts": {
-    "test": "node test.js"
+    "test": "ts-node test.ts",
+    "build": "tsc --declaration"
   },
   "author": "Eddie Lau",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
 }

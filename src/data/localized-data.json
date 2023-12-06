@@ -279,7 +279,8 @@
       "约翰三书": "约三",
       "犹大书": "犹",
       "启示录": "启"
-    }
+    },
+    "altNames": null
   },
   "en": {
     "booknames": [
@@ -417,6 +418,7 @@
       "3 John": "3Jo",
       "Jude": "Jud",
       "Revelation": "Rev"
-    }
+    },
+    "altNames": null
   }
 }

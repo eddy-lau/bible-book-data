@@ -6,19 +6,34 @@ Book IDs defined in
 https://ubsicap.github.io/usfm/identification/books.html
 
 */
-var localizedData = require('./data/localized-data.json');
-const BOOK_DATA = require('./data/default-data.json');
-const SECTIONS_DATA = require('./data/sections.json');
+import * as localizedData from './data/localized-data.json';
+import * as BOOK_DATA from './data/default-data.json';
+import * as SECTIONS_DATA from './data/sections.json';
 
-var cache = {};
+var cache:{ [id :string]: BookData[] } = {};
 
-function sectionOfBook(i, lang) {
+export type Category = {
+  name: string
+  order: number
+  numberOfBooks: number
+}
+
+export type Section = {
+  name: string
+  order: number
+  numberOfBooks: number
+  category: Category
+}
+
+export type Language = 'en'|'zh-Hant'|'zh-Hans'
+
+function sectionOfBook(i:number, lang:Language):Section | undefined {
 
   var total = 0;
   var section = SECTIONS_DATA[lang].sections.find( section => {
     total += section.numberOfBooks;
     return i < total;
-  });
+  })!;
 
   if (!section) {
     return undefined;
@@ -30,7 +45,7 @@ function sectionOfBook(i, lang) {
   var category = section.categories.find( category => {
     total += category.numberOfBooks;
     return orderInSection < total + 1;
-  });
+  })!;
 
   var orderInCategory = category.numberOfBooks - (total - orderInSection);
 
@@ -46,19 +61,31 @@ function sectionOfBook(i, lang) {
   };
 }
 
-function getBookData(lang) {
+export type BookData = {
+  index:string
+  id:string
+  name:string
+  abbreviation:string
+  'alternate-names'?:string[]
+  description:string
+  section?: Section
+}
 
-  var result = [];
-  var localizedName;
-  var localizedAbbreviation;
-  var localizedAltNames;
+function getBookData(lang:Language):BookData[] {
+
+  var result:BookData[] = [];
+  var localizedName:string|undefined;
+  var localizedAbbreviation:string|undefined;
+  var localizedAltNames:string[]|undefined;
 
   for (var i = 0; i<BOOK_DATA.length; i+=4) {
 
     if (localizedData[lang]) {
       localizedName = localizedData[lang].booknames[i/4];
+      // @ts-ignore
       localizedAbbreviation = localizedData[lang].abbreviations[localizedName];
       if (localizedData[lang].altNames) {
+        // @ts-ignore
         localizedAltNames = localizedData[lang].altNames[localizedName];
       }
     }
@@ -77,7 +104,7 @@ function getBookData(lang) {
 
 }
 
-module.exports = function(lang, bookIds) {
+export default function(lang?:Language, bookIds?:string[]) {
 
   lang = lang || 'en';
 
